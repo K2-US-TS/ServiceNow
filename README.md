@@ -1,7 +1,9 @@
-# K2 for Servicenow
+# K2 for ServiceNow
 
-## Servicenow Assets
-The Swagger can be used with the K2 REST broker, enabling one to work with Servicenow objects and tables in K2 Five and K2 Cloud. 
+## ServiceNow Assets
+The Swagger can be used with the K2 REST broker, enabling one to work with ServiceNow objects and tables in K2 Five and K2 Cloud. 
+
+Simply update the Host value to point to your tenant and register your service instance.
 
 The following objects are exposed:
 
