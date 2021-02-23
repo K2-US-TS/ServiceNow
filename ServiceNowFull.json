@@ -1,10 +1,10 @@
 {
 	"swagger": "2.0",
 	"info": {
-		"title": "ServiceNow Incidents",
+		"title": "ServiceNow Service",
 		"version": "0.1"
 	},
-	"host": "dev30446.service-now.com",
+	"host": "Your-Tenant.com",
 	"basePath": "/api/now/",
 	"schemes": ["https"],
 	"paths": {
